@@ -1,6 +1,6 @@
 # Upscale Pixel Art                                                                              
    
-  Upscale pixel art from 1x to 15x, processed only in your browser, no uploading to any server                      
+  Upscale pixel art up to 15x, processed only in your browser, no uploading to any server                      
                                                                                                         
   ## Usage
                                                                                                         
